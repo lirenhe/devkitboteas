@@ -58,6 +58,7 @@ namespace Microsoft.Bot.Sample.LuisBot
                     case "bill gates":
                         replyMessage = "Bill Gates is a co-founder of the Microsoft Corporation.";
                         break;
+                    case "microsoft ignite":
                     case "ignite":
                         replyMessage = "The Microsoft Ignite Conference showcases the company's enterprise products and services, while providing incredibly valuable IT training.";
                         break;
